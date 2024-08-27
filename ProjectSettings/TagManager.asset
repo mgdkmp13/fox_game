@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus
+  - EXIT
+  - Enemy
+  - Key
+  - Heart
+  - FallLevel
+  - MovingPlatform
+  - crank
+  - Bullet
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2396585641
+    locked: 0
+  - name: Platforms
+    uniqueID: 3108990465
+    locked: 0
+  - name: Tilemap
+    uniqueID: 717500261
+    locked: 0
+  - name: Props
+    uniqueID: 4133102575
+    locked: 0
+  - name: Player and enemies
+    uniqueID: 433308259
+    locked: 0
+  - name: Foreground
+    uniqueID: 102930907
+    locked: 0
